@@ -4,17 +4,17 @@ Esta é uma solução para o desafio de [Perfil de Links Sociais no Frontend Men
 
 ## Tabela de Conteúdos
 
-- [Visão Geral](#visão-geral)
+  - [Visão Geral](#visão-geral)
   - [O desafio](#o-desafio)
   - [Captura de Tela](#captura-de-tela)
   - [Links](#links)
-- [Meu Processo](#meu-processo)
+  - [Meu Processo](#meu-processo)
   - [Construído com](#construído-com)
   - [O que aprendi](#o-que-aprendi)
   - [Desenvolvimento Continuado](#desenvolvimento-continuado)
   - [Recursos Úteis](#recursos-úteis)
-- [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
+  - [Autor](#autor)
+  - [Agradecimentos](#agradecimentos)
 
 ## Visão Geral
 
@@ -34,7 +34,7 @@ Os usuários devem ser capazes de:
 
 ![Captura de tela do projeto](main/assets/images/Frontend Mentor _ Social links profile - Google Chrome 06_10_2024 11_25_54.png)
 
-- URL do site ao vivo: [Adicione a URL do site ao vivo aqui](https://felipe3a.github.io/social-links-profile-main/)
+- URL do site ao vivo: [desafio concluido](https://felipe3a.github.io/social-links-profile-main/)
 
 ## Meu Processo
 
