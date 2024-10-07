@@ -43,11 +43,9 @@ Os usuários devem ser capazes de:
 - HTML5 semântico
 - Propriedades CSS personalizadas
 - Flexbox
-- CSS Grid
-- Fluxo de trabalho Mobile-first
-- [React](https://reactjs.org/) - Biblioteca JS
-- [Next.js](https://nextjs.org/) - Framework React
-- [Styled Components](https://styled-components.com/) - Para estilos
+
+-
+
 
 ### O que aprendi
 
